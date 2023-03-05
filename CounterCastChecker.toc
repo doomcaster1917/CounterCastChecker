@@ -1,0 +1,9 @@
+## Interface: 30000
+## Title : CounterCastChecker
+## Notes: Show successful interrupts on target, focus, full duration of interrupts and as well shows unsuccessful("faked") interrupts
+## Version: 1.0
+## Author: Doomcaster1917
+## DefaultState: Enabled
+## SavedVariables: CCcheckerDB
+CounterCastChecker.lua
+
